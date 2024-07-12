@@ -23,7 +23,7 @@ const listingController = require("./controllers/listing.js");
 const compression = require('compression');
 
 // const dbUrl = process.env.ATLASDB_URL;
-const dbUrl = "mongodb+srv://Nitesh:Nitesh%40123@cluster0.6tifeca.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const dbUrl = "mongodb+srv://shaurya:Ashu12340vishnoi@cluster0.jr1ehvk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 const port = process.env.PORT;
 
 main()
